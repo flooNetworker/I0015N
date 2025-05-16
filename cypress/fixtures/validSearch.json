@@ -1,0 +1,6 @@
+[
+  { "validSearchTerm": "cat" },
+  { "validSearchTerm": "empire" },
+  { "validSearchTerm": "Cat" },
+  { "validSearchTerm": "Empire" }
+]
